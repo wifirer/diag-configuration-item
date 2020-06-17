@@ -1,0 +1,29 @@
+{
+    "data": {
+        "integrationId": "505662",
+        "macaddress": "e8:cc:18:77:ba:7e",
+        "nrs": "n3r25s25",
+        "ipaddress": "10.102.36.24",
+        "address": {
+            "region": {
+                "name": "Белгородская",
+                "shortName": "обл"
+            },
+            "locality": {
+                "name": "Белгород",
+                "shortName": "г"
+            },
+            "street": {
+                "name": "Губкина",
+                "shortName": "ул"
+            },
+            "house": {
+                "name": "17и",
+                "shortName": null
+            }
+        },
+        "id": "1710ff57-c229-e711-80cc-005056b44c67",
+        "name": "DES-1210-28/ME",
+        "typeName": "sd_configurationitem"
+    }
+}
